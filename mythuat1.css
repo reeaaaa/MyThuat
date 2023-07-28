@@ -1,0 +1,79 @@
+#div_tong{
+    width: 100%;
+    height: 600px;
+    /* background-color: white; */
+}
+#div_trai{
+    width: 18%;
+    height: 100%;
+    float: left;
+    background-color: black;
+}
+#div_ke_soc{
+    width: 4%;
+    height: 100%;
+    float: left;
+}
+#div_phai{
+    width: 78%;
+    height: 100%;
+    float: left;
+    background-image: url("G:/BI]/học/J2team/WEB/Đề bài/CSS/Mỹ thuật/sua1.gif");
+    background-repeat:no-repeat;
+    background-position: center;
+    /* background-color: black; */
+}
+#div_h1_form{
+    width: 80%;
+    height: 100%;
+    float: left;
+    /* background-color: rgb(255, 0, 0); */
+}
+#div_tranh{
+    width: 20%;
+    height: 80%;
+    float: left;
+    /* background-color: rgb(20, 145, 70); */
+}
+#div_h1{
+    width: 100%;
+    height: 15%;
+    /* background-color: aqua; */
+}
+#div_h1_thua{
+    width: 5%;
+    height: 100%;
+    float: left;
+    /* background-color: rgb(234, 100, 5); */
+}
+#div_h1_tieude{
+    width: 95%;
+    height: 100%;
+    color: brown;
+    float: left;
+    /* background-color: rgb(165, 37, 150); */
+}
+#div_form{
+    width: 100%;
+    height: 85%;
+    text-align: left;
+    /* background-color: yellow; */
+}
+#div_form_trai{
+    width: 18%;
+    height: 100%;
+    float: left;
+    /* background-color: rgb(35, 6, 255); */
+}
+#div_form_giua{
+    width: 64%;
+    height: 100%;
+    float: left;
+    /* background-color: rgb(12, 232, 137); */
+}
+#div_form_phai{
+    width: 18%;
+    height: 100%;
+    float: left;
+    /* background-color: rgb(97, 99, 162); */
+}
